@@ -5,6 +5,17 @@ The **Petty Cash Module** is part of the **SIA (Sistema Integral de Abastecimien
 
 Replacing spreadsheets and email-driven processes, this application ensures proper documentation, transparency, and faster processing for small procurement cases.
 
+### Login
+![Screenshot](./assets/1.png)
+
+### Register Purchase Order
+![Screenshot](./assets/3.png)
+
+### Generate Pay App
+![Screenshot](./assets/6.png)
+
+![Screenshot](./assets/7.png)
+
 ## 💡 Idea & Concept
 Previously, petty cash purchases were tracked using manual Excel logs with high chances of:
 - Data entry errors
